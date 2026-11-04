@@ -27,7 +27,7 @@ Project Files
 
 - "seven_cs_marketing (1).sql" – SQL database export containing the database structure and sample records.
 - "README.md" – Project documentation.
-- "database-erd.png" – Entity Relationship Diagram.
+- "screenshots" posted – Entity Relationship Diagram.
 
 Project Purpose
 
