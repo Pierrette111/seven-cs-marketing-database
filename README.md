@@ -27,7 +27,7 @@ Project Files
 
 - "seven_cs_marketing (1).sql" – SQL database export containing the database structure and sample records.
 - "README.md" – Project documentation.
-- "database-erd.png" – Entity Relationship Diagram (optional).
+- "database-erd.png" – Entity Relationship Diagram.
 
 Project Purpose
 
@@ -35,4 +35,4 @@ This project demonstrates the use of relational database concepts, SQL, database
 
 Academic Purpose
 
-This database project was prepared as part of an academic requirement to demonstrate practical knowledge of database design and SQL.t
+This database project was prepared as part of an academic requirement to demonstrate practical knowledge of database design and SQL.
